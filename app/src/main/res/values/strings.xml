@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportEventsApp</string>
+    <string name="event_title_placeholder">Liverpool vs AC Milan</string>
+    <string name="event_subtitle_placeholder">Champions League</string>
+    <string name="schedule_fragment_header">Today\'s schedule</string>
+    <string name="event_date_placeholder">Tomorrow, 12:00</string>
+    <string name="latest_events">Latest events</string>
+</resources>
